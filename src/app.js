@@ -12,7 +12,7 @@ console.log(euroDun)
 
 //array 
 //camelCasing 
-let konutKredileri = ["Konut Kredisi","Emlak Kredisi","Kamu Konut Kredisi","Özel KOnut Kredisi"]  
+let konutKredileri = ["Konut Kredisi","Emlak Kredisi","Kamu Konut Kredisi","Özel KOnut Kredisi"]
 
 console.log("<ul>")
 
